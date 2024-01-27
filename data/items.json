@@ -1,403 +1,44 @@
 [ 
     { 
-        "name": "Jill", 
+        "name": "Freeze Trap", 
         "category": [
-            "Characters",
-            "Left Side"
+            "Freeze"
         ],
-        "progression": true 
+        "count": 3
     },
     { 
-        "name": "Shuma-Gorath", 
+        "name": "One Hand Trap", 
         "category": [
-            "Characters",
-            "Right Side"
+            "One Hand"
         ],
-        "progression": true 
+        "count": 3
     },
     { 
-        "name": "Nemesis T-Type", 
+        "name": "Blind Trap", 
         "category": [
-            "Characters",
-            "Left Side"
+            "Blind"
         ],
-        "progression": true 
+        "count": 3
     },
     { 
-        "name": "Firebrand", 
+        "name": "Deaf Trap", 
         "category": [
-            "Characters",
-            "Left Side"
+            "Deaf"
         ],
-        "progression": true 
+        "count": 3
     },
     { 
-        "name": "Strider Hiryu", 
+        "name": "Reboot Trap", 
         "category": [
-            "Characters",
-            "Left Side"
+            "Reboot"
         ],
-        "progression": true 
+        "count": 3
     },
     { 
-        "name": "Phoenix Wright", 
+        "name": "Deathlink Trap", 
         "category": [
-            "Characters",
-            "Left Side"
+            "Deathlink"
         ],
-        "progression": true 
-    },
-    { 
-        "name": "Nova", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Ghost Rider", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Hawkeye", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Doctor Strange", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Chris", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Arthur", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Frank West", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Vergil", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Iron Fist", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Rocket Raccoon", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Captain America", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Dormammu", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Wesker", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Zero", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Ryu", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Dante", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Deadpool", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Wolverine", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Iron Man", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Doctor Doom", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Morrigan", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Tron", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Chun-Li", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Trish", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "X-23", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Storm", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Thor", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "M.O.D.O.K.", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Felicia", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Spencer", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Akuma", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Viewtiful Joe", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Spider-Man", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Sentinel", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Hulk", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Super-Skrull", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Hsien-Ko", 
-        "category": [
-            "Characters",
-            "Left Side",
-            "Trash"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Haggar", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "C. Viper", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Amaterasu", 
-        "category": [
-            "Characters",
-            "Left Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Phoenix", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Magneto", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "She-Hulk", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
-    },
-    { 
-        "name": "Taskmaster", 
-        "category": [
-            "Characters",
-            "Right Side"
-        ],
-        "progression": true 
+        "count": 3
     }
 ]
