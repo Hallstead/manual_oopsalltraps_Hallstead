@@ -1,5 +1,10 @@
 [
     { 
+        "name": "Victory",
+        "requires": [],
+        "victory": true
+    },
+    { 
         "name": "Freeze Trap 1", 
         "category": ["Freeze"],
         "requires": "|Freeze Trap:1|"

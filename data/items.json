@@ -4,41 +4,53 @@
         "category": [
             "Freeze"
         ],
-        "count": 3
+        "count": 3,
+        "progression": true,
+        "trap": true
     },
     { 
         "name": "One Hand Trap", 
         "category": [
             "One Hand"
         ],
-        "count": 3
+        "count": 3,
+        "progression": true,
+        "trap": true
     },
     { 
         "name": "Blind Trap", 
         "category": [
             "Blind"
         ],
-        "count": 3
+        "count": 3,
+        "progression": true,
+        "trap": true
     },
     { 
         "name": "Deaf Trap", 
         "category": [
             "Deaf"
         ],
-        "count": 3
+        "count": 3,
+        "progression": true,
+        "trap": true
     },
     { 
         "name": "Reboot Trap", 
         "category": [
             "Reboot"
         ],
-        "count": 3
+        "count": 3,
+        "progression": true,
+        "trap": true
     },
     { 
         "name": "Deathlink Trap", 
         "category": [
             "Deathlink"
         ],
-        "count": 3
+        "count": 3,
+        "progression": true,
+        "trap": true
     }
 ]
