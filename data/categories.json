@@ -1,8 +1,20 @@
 {
-    "Example Logic only category": {
-        "hidden": true
+    "Freeze": {
+        "yaml_option": ["freeze_traps_enabled"]
     },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
+    "One Hand": {
+        "yaml_option": ["one_hand_traps_enabled"]
+    },
+    "Blind": {
+        "yaml_option": ["blind_traps_enabled"]
+    },
+    "Deaf": {
+        "yaml_option": ["deaf_traps_enabled"]
+    },
+    "Reboot": {
+        "yaml_option": ["reboot_traps_enabled"]
+    },
+    "Deathlink": {
+        "yaml_option": ["deathlink_traps_enabled"]
     }
 }
